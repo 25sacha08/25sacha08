@@ -14,36 +14,7 @@
 
 ---
 
-## 🏆 Certifications & Formations (bientôt)
-| Certification | Statut |
-|--------------|--------|
-| Azure Fundamentals (AZ-900) | 📚 En préparation |
-| Power BI Data Analyst (PL-300) | 📚 À venir |
-| Python Data Science | 🚧 En cours |
-
----
-
-## 🎯 Objectifs 2025
-- 🚀 Lancer 3 projets IA complets  
-- 🎓 Obtenir la certification Azure Fundamentals  
-- 🧩 Contribuer à un projet open-source Data  
-- ☁️ Monter en compétences sur le Cloud & DevOps  
-- 💼 Trouver une alternance/stage en Data/IA  
-
----
-
-## ⭐ Projets récents et à venir
-➡️ Fruit Maturity Detector — YOLO, Python (à publier)  
-➡️ Sales Dashboard — Power BI (à ajouter à GitHub)  
-➡️ Bash Tools — Scripts automatiques (à venir)
-
-*(Les liens seront ajoutés ici au fur et à mesure)*
-
----
-
 ## 📈 Statistiques GitHub
-
-
 <!-- Carte principale : si ton compte a des repos publics, cette URL devrait fonctionner -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaData&show_icons=true&hide_border=true&theme=radical)
 
@@ -58,9 +29,7 @@
 <!-- Streak (si disponible) -->
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SachaData&hide_border=true&theme=radical)
 
-
 ---
-
 ## 🧩 Compétences Tech
 - 🐍 Python — Numpy, Pandas, Scikit-Learn  
 - 🤖 IA — Vision par ordinateur, Deep Learning  
@@ -68,13 +37,7 @@
 - 🖥️ Linux — Bash, automatisation  
 - ☁️ Cloud — Azure (débutant)
 
----
 
-## 📬 Contacte-moi
-📧 Email : *ton.email@exemple.com*  
-🔗 LinkedIn : *ton-lien-ici*
-
----
 
 > ✨ "Construire des solutions qui transforment les données en décisions"
 
