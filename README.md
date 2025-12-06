@@ -86,5 +86,5 @@ Passionné par la **donnée**, l’**automatisation** et les **technologies inte
 -->
 
 <p align="center">
-  🔥 *“Créer aujourd’hui ce qui simplifiera demain.”* 🔥
+  🔥 Créer aujourd’hui ce qui simplifiera demain. 🔥
 </p>
