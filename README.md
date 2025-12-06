@@ -17,7 +17,7 @@
 
 <br />
 
-🎯 Analyste Data & Développeur IA en devenir 🇨🇮
+🎯 Analyste Data & Développeur IA en devenir
 
 Passionné par la **donnée**, l’**automatisation** et les **technologies intelligentes**, je construis des projets qui transforment des informations brutes en **solutions concrètes**.
 
